@@ -1,4 +1,10 @@
-# bb8-examples
+Some of my programming investigations with bb8
+
+# Requirements
+	node - https://nodejs.org
+
+# bb8 programing examples
+	1. bb8-gmail-notificator : this script connects to your gmail account, checks if there is emails unread. If this condition is true, bb8 turns to red color, otherwise bb8 keeps green.
 
 #to run this examples:
 	node <FILE_EXAMPLE>.js
